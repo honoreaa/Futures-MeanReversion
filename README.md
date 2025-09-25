@@ -120,24 +120,22 @@ The strategy follows these steps:
 
 Using the provided backtest results:
 
-* **Total Return:** $\$391,567.74$
+* **Total Return:** $391,567.74
 
-* **Annualized Return:** $\$86,254.43$
+* **Annualized Return:** $86,254.43
 
-* **Annualized Volatility:** $\$48,860.08$
+* **Annualized Volatility:** $48,860.08
 
-* **Initial Capital:** $\$100,000$
+* **Initial Capital:** $100,000
 
-* **Annualized Portfolio Return (Percentage):** $\frac{\$86,254.43}{\$100,000} \approx 86.25\%$
+* **Annualized Portfolio Return (Percentage):** approx 86.25%
 
-* **Annualized Volatility (Percentage):** $\frac{\$48,860.08}{\$100,000} \approx 48.86\%$
+* **Annualized Volatility (Percentage):** approx 48.86%
 
 
 The calculated Sharpe Ratio is:
 
-$$\text{Sharpe Ratio} = \frac{(0.8625443 - 0.045)}{0.4886008} \approx 1.67$$
-
-A Sharpe Ratio of **1.67** is considered **good** for a trading strategy, indicating a solid return for the level of risk taken.
+Sharpe Ratio = approx 1.67
 
 ## 5. Conclusions and Future Improvements
 
