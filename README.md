@@ -143,6 +143,8 @@ The pairs trading strategy, once correctly implemented with the dynamically calc
 
 To further enhance the strategy's performance and potentially improve the Sharpe Ratio (aiming for $\ge 2.0$), consider the following improvements:
 
+* **Overfitting & Look-Ahead Bias:** Overfitting can always be approved upon. Considering my annualized returns, I also assume that I have some slight look-ahead bias in my code. I will update this repo once I've fixed it.
+
 * **Parameter Optimization:** Systematically test different `entry_threshold`, `exit_threshold`, and `window` (for Z-score calculation) values to find the optimal combination that maximizes the Sharpe Ratio while maintaining robustness.
 
 * **Dynamic Hedge Ratio:** Instead of a single static beta for the entire period, consider using a rolling hedge ratio that adapts to changing market conditions.
