@@ -163,4 +163,4 @@ To further enhance the strategy's performance and potentially improve the Sharpe
 
 * **Alternative Cointegration Tests:** Explore other cointegration tests for multi-variate cointegration or robustness checks.
 
-I had a blast with this project! Shoot me an email at haalexander@ucdavis.edu if you'd like to learn more or collaborate!
+I had a blast with this project!
